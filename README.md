@@ -10,7 +10,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasampath&show_icons=true&theme=radical&locale=en" alt="sivasampath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasampath&theme=dark" alt="sivasampath" /></p>
-
-
-
-
